@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: tranduke@hotmail.com, shirhatti@outlook.com
-At: 2026-09-16 13:12:51
-Id: FJMBsUmf
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: rdahl65@yahoo.com, mdbeerco@yahoo.com
+At: 2026-09-16 13:13:30
+Id: Ghlt44hC
